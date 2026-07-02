@@ -185,16 +185,21 @@ MSHA Open Data (.txt)
 ---
 ## 🖼️ Vista previa del dashboard
 
-### Página 1 — Accidentabilidad.
+### Página 1 — Resumen.
 ![Dashboard Accidentes](./Imagenes/DashBoard_Accidentes.png)
 
-### Página 2 — Fatalidad.
+### Página 2 — Catastro.
 ![Dashboard Fatalidades](./Imagenes/DashBoard_Fatalidades.png)
-### Página 3 — Causa.
+### Página 3 — Mapa.
 ![Dashboard Causas](./Imagenes/DashBoard_Causas.png)
-### Página 4 — Tipo de Mina.
+### Página 4 — Capacidad y Regulación.
 ![Dashboard Tipo de minas](./Imagenes/DashBoard_Tipo_Minas.png)
-### Página 5 — Modelo de Datos.
+### Página 5 — Capacidad y Regulación.
+![Dashboard Tipo de minas](./Imagenes/DashBoard_Tipo_Minas.png)
+### Página 6 — Capacidad y Regulación.
+![Dashboard Tipo de minas](./Imagenes/DashBoard_Tipo_Minas.png)
+### Página 7 — Modelo de Datos.
+![Dashboard Tipo de minas](./Imagenes/DashBoard_Tipo_Minas.png)
 ---
 ## 📄 Licencia
 Los datos utilizados son de dominio público, publicados por el U.S. Department of Labor bajo la iniciativa Open Government Data.
