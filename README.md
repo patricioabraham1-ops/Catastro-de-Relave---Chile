@@ -1,6 +1,6 @@
-# Mining Safety Analytics 
+# Catastro de Relave
 
-### Análisis de Accidentabilidad en la Industria Minera de U.S.A. (2000–2025)
+### Catastro de Relaves en chile (Hasta 2025 de Octubre)
 ---
 ## 👤 Autor
 
