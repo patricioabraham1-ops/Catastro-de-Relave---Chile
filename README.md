@@ -12,23 +12,23 @@
 
 ## 📌 Descripción del proyecto
 
-Este proyecto analiza alrededor de **300,000 registros reales** de accidentes, lesiones  y fatalidades en la industria minera de EE.UU., utilizando datos oficiales del **Mine Safety and Health Administration (MSHA)**.
-Se debe aplicar un analisis de datos en para responder preguntas criticas en la seguridad minera ¿qué tipo de accidentes ocurren con mas frecuencia ?, ¿en qué operaciones ocurren más fatalidades?,¿Cual es la tendencia del FIR.AIR desde 2000 hasta el 2025?.
+Este proyecto analiza alrededor de **836 registros reales** de depósitos de relaves en Chile, administrado por SERNAGEOMIN , utilizando datos oficiales.
+Se debe aplicar un analisis de datos en para responder preguntas criticas en los Catastro Nacional de Relaves Mineros.
 
 ----
 ## 📝 Observación
-> Se debe Descargar los archivos de Mines.txt y Accidentes.txt en la base de datos de MSHA.
+> 
 
-> Solo se debe ver el procedimiento, solo se debe Desproteger las Hojar y mostras las demas paginas. 
+> 
 ---
 
 ## 🎯 Preguntas de negocio
 
-1. ¿Cuál ha sido la efectividad a largo plazo de las políticas de seguridad minera de la MSHA en los últimos 25 años en términos de volumen e índices de frecuencia ($AIR$ y $FIR$)?.
-2. ¿Cuáles son los estados críticos (puntos calientes) donde se concentran la mayor cantidad de accidentes y fatalidades en EE. UU.?
-3. ¿Qué tipo de minería y qué métodos de extracción representan el mayor riesgo operacional?
-4. ¿Cuáles son los tipos de accidentes más comunes, partes del cuerpo afectadas y puestos de trabajo en la primera línea de riesgo?
-5. ¿Cómo influye la experiencia del trabajador en la probabilidad de sufrir un accidente y fatalidad?
+1. 
+2. 
+3. 
+4. 
+5. 
  
 
 ---
@@ -67,9 +67,7 @@ mining-safety-analytics/
 ## 📦 Fuente de datos
 | Dataset | Fuente | Registros | Actualización |
 |---|---|---|---|
-| Accident & Injuries | [MSHA Open Data](https://www.msha.gov/msha-datasets) | +300,000 | Semanal |
-| Mines Information | [MSHA Mines Dataset](https://catalog.data.gov/dataset/msha-mines-dataset) | +96,000 minas | Semanal |
-|AIR & FIR|[Number of employee hours reported](https://wwwn.cdc.gov/NIOSH-Mining/MMWC/Employee/Hours)|+25 registro|anual|
+| Catastro de Relave en Chile | [Sernageomin](https://www.sernageomin.cl/visores-mineros/) | 836 | Octubre del 2025 |
 
 >Los datos son de **acceso público y gratuito**.
 ---
