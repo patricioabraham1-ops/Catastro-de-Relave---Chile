@@ -110,7 +110,7 @@ MSHA Open Data (.txt)
 |---|---|
 |Power Query|Limpieza,EDA, transformación de datos-Eliminacion de columnas Innesesarias-Corrección de Errores-ETC|
 |Power Pivot|Creación de tabla calendario, Año Fiscal y Realizacion del modelo de datos Tipo estrella|
-|Excel| Creación de Dashboard Iteractivo|
+|Power BI| Creación del Dashboard Iteractivo para realizar el catastro de Relave|
 
 ---
 ## 📊 Hallazgos principales
@@ -200,4 +200,4 @@ MSHA Open Data (.txt)
 ![Dashboard Tipo de minas](./Imagenes/DashBoard_Tipo_Minas.png)
 ---
 ## 📄 Licencia
-Los datos utilizados son de dominio público, publicados por el U.S. Department of Labor bajo la iniciativa Open Government Data.
+Los datos utilizados son de dominio público, publicados por SERNAGEOMIN.
