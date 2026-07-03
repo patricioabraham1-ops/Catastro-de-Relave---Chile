@@ -40,7 +40,7 @@ mining-safety-analytics/
 ├── README.md
 │
 ├── data/
-│   └──  CATASTRO_RELAVES_CHILE_OCT2025_1 .xlsm                               # Data de los Relaves en Chile hasta octubre 2025
+│   └──  CATASTRO_RELAVES_CHILE_OCT2025_1 .xlsm           # Data de los Relaves en Chile hasta octubre 2025
 │
 ├── Iconos/
 │   └── LogoSernageomin.png
