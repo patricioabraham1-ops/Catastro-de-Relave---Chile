@@ -40,28 +40,21 @@ mining-safety-analytics/
 ├── README.md
 │
 ├── data/
-│   ├──  Accidents.txt                                # Datos de los Accidentes mineros de USA.
-│   ├──  Mines.txt                                    # Data de las Minas de USA.
-│   ├──  Number of employee hours (in millions).csv   # Data de trabajador por horas Trabajadas
-│   ├──  AIR_FIR.xlm                                  # Data de AIR y FIR
-│   └──  State USA.xlm                                # Data de los estados y Territorios de USA
+│   └──  CATASTRO_RELAVES_CHILE_OCT2025_1                                # Data de los Relaves en Chile hasta octubre 2025
 │
 ├── Iconos/
-│   ├── Accidentes.png
-│   ├── Carbon.png
-│   ├── Causas.png
-│   ├── Comparacion.png      
-│   ├── Fatalidad.png
-│   └── MSHA.png
+│   └── LogoSernageomin.png
 │
 └── images/
-│    ├── dashboard_Accidentes.png
-│    ├── dashboard_Tipo_Minas.png
-│    ├── dashboard_Causas.png
-│    ├── dashboard_Modelo de Datos.png
-│    └── Dashboard_Fatalidades.png
+│    ├── 1.-Resumen.png
+│    ├── 2.-Catastro.png
+│    ├── 3.-Mapas.png
+│    ├── 4.-Regulación.png
+│    ├── 5.-Capacidad y Usos.png
+│    ├── 6.-Riesgos.png
+│    └── 7.-Modelo de Estrella.png
 │
-└── Presentacion Mining injuries.xlsx
+└── Catastro de Relaves _Estrella.pbix
 ```
 ---
 ## 📦 Fuente de datos
