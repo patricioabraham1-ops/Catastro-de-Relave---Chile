@@ -130,9 +130,9 @@ CATASTRO_RELAVES_CHILE_OCT2025_1.xlsm
 
 | KPI | Definición | Fórmula |
 |---|---|---|
-| **   ** |   | (Accidentes registrables × 200,000) / Horas trabajadas |
-| **FIR** | fatality Injury Rate (Tasa de Fatalidades) | (  Fatalidades registradas  × 200,000) / Horas trabajadas |
-| **Días perdidos promedio** | Severidad promedio por evento | Total días perdidos / Total accidentes con días perdidos |
+|   |   |   |
+|   |   |   |
+|   |   |   |
 
 >  
 ---
