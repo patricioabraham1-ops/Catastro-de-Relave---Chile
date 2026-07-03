@@ -45,7 +45,7 @@ mining-safety-analytics/
 ├── Iconos/
 │   └── LogoSernageomin.png
 │
-└── images/
+├── images/
 │    ├── 1.-Resumen.png
 │    ├── 2.-Catastro.png
 │    ├── 3.-Mapas.png
