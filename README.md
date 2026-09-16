@@ -139,17 +139,17 @@ CATASTRO_RELAVES_CHILE_OCT2025_1.xlsm
 ## 🖼️ Vista previa del dashboard
 
 ### Página 1 — Resumen.
-![Dashboard Accidentes](./Imagenes/DashBoard_Accidentes.png)
+![Dashboard Accidentes](./Imagenes/1.-Resumen.png)
 ### Página 2 — Catastro.
-![Dashboard Fatalidades](./Imagenes/DashBoard_Fatalidades.png)
+![Dashboard Fatalidades](./Imagenes/2.-Catastro.png)
 ### Página 3 — Mapa.
-![Dashboard Causas](./Imagenes/DashBoard_Causas.png)
+![Dashboard Causas](./Imagenes/3.-Mapas.png)
 ### Página 4 — Capacidad y Regulación.
-![Dashboard Tipo de minas](./Imagenes/DashBoard_Tipo_Minas.png)
+![Dashboard Tipo de minas](./Imagenes/4.-Regulación.png)
 ### Página 5 — Capacidad y Regulación.
-![Dashboard Tipo de minas](./Imagenes/DashBoard_Tipo_Minas.png)
+![Dashboard Tipo de minas](./Imagenes/5.-Capacidad_y_Usos.png)
 ### Página 6 — Capacidad y Regulación.
-![Dashboard Tipo de minas](./Imagenes/DashBoard_Tipo_Minas.png)
+![Dashboard Tipo de minas](./Imagenes/6.-Riesgos.png)
 ### Página 7 — Modelo de Datos.
 ![Dashboard Tipo de minas](./Imagenes/DashBoard_Tipo_Minas.png)
 ---
