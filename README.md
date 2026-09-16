@@ -151,7 +151,8 @@ CATASTRO_RELAVES_CHILE_OCT2025_1.xlsm
 ### Página 6 — Capacidad y Regulación.
 ![Dashboard Tipo de minas](./Imagenes/6.-Riesgos.png)
 ### Página 7 — Modelo de Datos.
-![Dashboard Tipo de minas](./Imagenes/DashBoard_Tipo_Minas.png)
+![Dashboard Tipo de minas](./Imagenes/7.-Modelo_de_Estrella.png)
+
 ---
 ## 📄 Licencia
 Los datos utilizados son de dominio público, publicados por SERNAGEOMIN.
